@@ -3,7 +3,7 @@
 This repository contains tools and scripts for performing ABC-XYZ analysis in the e-commerce sector. 
 The main goal of the project is to classify products based on their sales volume and demand variability, helping businesses optimize inventory management and procurement strategies.
 
-![abc_xyz_analysis_dashboard](https://github.com/user-attachments/assets/abc_xyz_dashboard_example.png)
+![x](https://miro.medium.com/v2/1*UE0HHiBs-ViRM4-4-Bv3qA.png)
 
 ---
 
